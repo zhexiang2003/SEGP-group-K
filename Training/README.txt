@@ -1,0 +1,1 @@
+All files refer to the training data captured. For the testing seeds the left half are bad and the right half are good. mb means mostly bad. Marked is a batch of bad seeds where the good seeds are marked. The first number refers to the batch number and the second number(or only number) refers to the lighting configuration.

@@ -1,0 +1,6 @@
+file_name,x_min,y_min,x_max,y_max,bbox_label
+/home/pi/Desktop/PI_SEGP/resources/graphics/placeholder.jpg,212,194,261,243,BAD
+/home/pi/Desktop/PI_SEGP/out/cropped/141_0.jpg,866,773,1033,994,BAD
+/home/pi/Desktop/PI_SEGP/out/cropped/141_0.jpg,758,117,952,305,BAD
+/home/pi/Desktop/PI_SEGP/out/cropped/141_0.jpg,130,116,354,285,BAD
+/home/pi/Desktop/PI_SEGP/out/cropped/141_0.jpg,224,836,434,1024,BAD
